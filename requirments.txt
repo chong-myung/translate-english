@@ -1,0 +1,4 @@
+deepl
+bs4
+notion_client
+openai
